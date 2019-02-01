@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: glow
+  m_Name: Glow
   m_Shader: {fileID: 4800000, guid: 2820becc3aad26a44bb5824bce2d9903, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
